@@ -4,7 +4,7 @@
 - Frameworks: React, Node.
 - Database technologies: Either MongoDB or SQL.
 - Editor: We recommend VS Code.
-- Source Control: Git, Github, and Github Desktop.
+- Source Control: Git, Github, and Github Desktop..
 
 # People
 
